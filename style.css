@@ -1,0 +1,14 @@
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 250px;
+    text-align: center;
+    color: blueviolet;
+}
+div {
+    width: 300px;
+    border: 15px salmon;
+    padding: 50px;
+    margin: 20px;
+}
